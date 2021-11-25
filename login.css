@@ -1,0 +1,45 @@
+
+body, html {
+    height: 500px;
+    margin: 0px;
+  }
+.bg{
+    background-image: url("Image/pexels-s-migaj-747964.jpg");
+   height: 100%; 
+   width: 100%;
+
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+#FormMargin{
+    border: 2px solid white;
+    margin-top: 200px;
+    margin-left: 620px;
+    width: 300px;
+    background-color: rgba(255, 242, 242, 0.719);
+    height: 330px;
+    padding: 18px;
+}
+#exampleInputEmail1{
+    width: 250px;
+    height: 38px;
+}
+#exampleInputPassword1{
+    width: 250px;
+    height: 38px;
+}
+
+#submit{
+    background-color:cornflowerblue;
+    color: black;
+    border: 0.5px solid black;
+    border-radius: 0px;
+    height: 38px;
+    padding: 5px;
+    width: 250px;
+}
+
